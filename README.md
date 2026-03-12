@@ -5,7 +5,7 @@
 
   <!-- === 语言切换按钮（新增）=== -->
   <a href="https://github.com/Harleyzlzl/Harleyzlzl/blob/main/README.md">
-    <img src="https://img.shields.io/badge/🇨🇳%20中文版本-red?style=for-the-badge&logo=readme&logoColor=white" alt="中文">
+    <img src="https://img.shields.io/badge/🇨🇳%20简体中文-red?style=for-the-badge&logo=readme&logoColor=white" alt="中文">
   </a>
   <a href="https://github.com/Harleyzlzl/Harleyzlzl/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/🇬🇧%20English%20Version-blue?style=for-the-badge&logo=readme&logoColor=white" alt="English">
