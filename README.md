@@ -55,15 +55,18 @@
 ### GitHub Stats | 统计数据
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harleyzlzl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harleyzlzl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Harleyzlzl&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harleyzlzl&layout=compact&theme=radical&hide_border=true" width="40%" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harleyzlzl&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harleyzlzl&theme=radical&hide_border=true" />
 </div>
 
 ---
+
 
 ### Tech Stack | 技术栈
 
