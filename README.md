@@ -89,7 +89,6 @@
 #### 🗄️ 数据库 & 其他 | Databases & Others
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
-
 ---
 
 ### Connect | 联系我
