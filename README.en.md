@@ -1,17 +1,22 @@
 <div align="center">
 
-  <h1>Hi there! 👋 Hello!</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Universe" alt="Typing SVG" />
+  <h1>Hi there! 👋 你好！</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Universe" alt="Typing SVG" />
 
-  <!-- === Language Switch Buttons === -->
+  <!-- === 语言切换按钮（已优化并排第二行）=== -->
+  <br><br>
   <a href="https://github.com/Harleyzlzl/Harleyzlzl/blob/main/README.md">
-    <img src="https://img.shields.io/badge/🇨🇳%20Chinese%20Version-red?style=for-the-badge&logo=readme&logoColor=white" alt="中文">
+    <img src="https://img.shields.io/badge/🇨🇳%20中文版本-red?style=for-the-badge&logo=readme&logoColor=white" alt="中文">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Harleyzlzl/Harleyzlzl/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/🇬🇧%20English%20Version-blue?style=for-the-badge&logo=readme&logoColor=white" alt="English">
   </a>
 
 </div>
+
+---
 
 ---
 ### About Me
@@ -51,13 +56,41 @@ I love turning models into real-world deployments: from RAG Q&A systems, seedrea
 
 ---
 
-### GitHub Stats
-（完全一样，保持不变）
+### GitHub Stats | 统计数据
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Harleyzlzl&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harleyzlzl&layout=compact&theme=radical&hide_border=true" width="40%" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harleyzlzl&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-### Tech Stack
-（完全一样，保持不变）
+### Tech Stack | 技术栈
+
+#### 核心语言 & 框架
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+#### AIGC & RAG
+![ComfyUI](https://img.shields.io/badge/ComfyUI-000000?style=flat-square&logo=stable-diffusion&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+#### 大数据 & 部署
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+#### 数据库 & 其他
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
 
 ---
 
