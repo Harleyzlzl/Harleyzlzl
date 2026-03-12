@@ -54,35 +54,41 @@
 ---
 
 ### GitHub Stats | 统计数据
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harleyzlzl&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harleyzlzl&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harleyzlzl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harleyzlzl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harleyzlzl&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harleyzlzl&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
+
 ### Tech Stack | 技术栈
 
-#### 核心语言 & 框架
+#### 🐍 核心语言 & 框架 | Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-#### AIGC & RAG
-![ComfyUI](https://img.shields.io/badge/ComfyUI-000000?style=flat-square&logo=stable-diffusion&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+#### 🤖 LLM & RAG | LLM & RAG
+![LangChain](https://img.shields.io/badge/LangChain-1C2C4C?style=flat-square&logo=langchain&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-#### 大数据 & 部署
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+#### 🎨 AIGC / 图像生成 | AIGC / Image Generation
+![ComfyUI](https://img.shields.io/badge/ComfyUI-FF6B00?style=flat-square&logo=stable-diffusion&logoColor=white)
+
+#### 📊 大数据 & 部署 | Big Data & Deployment
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-#### 数据库 & 其他
+#### 🗄️ 数据库 & 其他 | Databases & Others
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
 
 ---
 
