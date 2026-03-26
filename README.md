@@ -47,7 +47,7 @@
 | **AI量化交易**（最新）    | AI量化交易分析软件（2025.06 至今）       | Python + ML 模型实时行情分析、信号生成、LightGBM 预测、回测框架，目标实现自动化交易决策 |
 | **RAG电商生图**（最新）   | 基于 RAG 的电商场景自动化生图落地项目    | RAG + ComfyUI 工作流，结合 Elasticsearch 检索商品信息，自动生成主题图片/视频，效率提升 300%+ |
 | ComfyUI 电商多模态        | AI算法实习生（2025.02 - 2025.05）        | 主导 ComfyUI 在 NVIDIA/AMD/CPU 部署，优化 25% 计算速度；设计电商模特图、商品视频一键生成工作流 |
-| RAG 智能问答系统          | RAG 电商问答系统（2025.02 - 2025.04）    | PyTorch + Hugging Face + Elasticsearch + LangChain，准确率 85%，支持多轮对话 + API 部署 |
+| RAG 智能问答系统          | RAG 电商问答系统（2025.02 - 2025.04）    | PyTorch + Hugging Face + Elasticsearch + LangChain，准确率 95%，支持多轮对话 + API 部署 |
 | 电商评论情感分析          | BERT 中文电商评论情感分类（2025.01-2025.02） | PyTorch 微调 BERT，F1 分数 0.92；模型量化后速度提升 30%，Flask + Docker 上 AWS |
 | 深度学习个体识别          | 64 个体识别模型（2024.01 - 2024.03）     | CNN + LSTM 处理时序特征，测试准确率 99%，处理 200G+ CSV 数据集                   |
 
